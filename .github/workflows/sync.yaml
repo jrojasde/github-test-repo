@@ -1,4 +1,4 @@
-name: S3 sync actions
+name: S3 sync actions AWS
 
 on:
   workflow_dispatch:
