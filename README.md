@@ -24,3 +24,5 @@ politica de ejemplo:
 }
 
 - agregamos secretos en nuestro github secret ( dentro de las configuracion del repositorio )
+
+- ejecutamos el pipeline CI - CD
